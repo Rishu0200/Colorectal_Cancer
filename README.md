@@ -123,7 +123,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## CONTACT
-Email- Rishabhanand0200@gmail
+Email- Rishabhanand0200@gmail.com
 
 
 
