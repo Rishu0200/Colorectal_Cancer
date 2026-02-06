@@ -4,6 +4,5 @@ logs/
 __pycache__/
 *.pyc
 artifacts/processed/
-artifacts/models/
 Colorectal_Cancer_Prediction.egg-info/
 mlruns/
